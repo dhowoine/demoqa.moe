@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 26 13:23:58 MSK 2023","Tue Sep 26 13:24:09 MSK 2023","11185","","moe.O.demoqa_test.AppTest","","moe.O.demoqa_test.AppTest","testDQA","testDQA()",""
