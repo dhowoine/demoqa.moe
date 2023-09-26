@@ -16,6 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Story;
+import io.qameta.allure.Description;
 
 @Epic("demoqa тесты")
 @Feature("ТЕСТОВОЕ ЗАДАНИЕ")
@@ -31,6 +32,7 @@ public class AppTest {
 	
     @Test
     @Story("Автотест по сценарию")
+    @Description("браузер Chrome")
     public void testDQA() {
     	// open browser
 		driver = new ChromeDriver();
